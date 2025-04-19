@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: #26d0c9;
+    background-color: #002df8;
     color: #fff;
     height: 90px;
   }
@@ -36,7 +36,7 @@ body {
   }
   
   .copy-container span {
-    color: #ff4a4a;
+    color: #f8e800;
   }
   
   .contents {
@@ -45,7 +45,7 @@ body {
   }
   
   .section-title {
-    border-bottom: 2px solid #dee7ec;
+    border-bottom: 2px solid #6294af;
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 50px;
@@ -72,7 +72,7 @@ body {
     margin-bottom:30px;
     padding:20px;
     font-size:18px;
-    border:1px solid #dee7ec;
+    border:1px solid #ccd7dd;
   }
   
   
@@ -82,7 +82,7 @@ body {
   }
   
   .footer {
-    background-color: #2f5167;
+    background-color: #db3ea7;
     color: #fff;
     height: 120px;
     padding: 40px;
